@@ -1,0 +1,5 @@
+N. Ranasinghe, "Learning to detect and adapt to unpredicted changes," University of Southern California, Los Angeles, PhD Thesis, October 2012.
+
+N. Ranasinghe and W.-M. Shen, "Autonomous Surveillance Tolerant to Interference," in Intl. Conf. Towards Autonomous Robotic Systems TAROS, Bristol, 2012.
+
+N. Ranasinghe and W.-M. Shen, "Surprise-Based Learning for Developmental Robotics," Learning and Adaptive Behaviors for Robotic Systems, 2008.
